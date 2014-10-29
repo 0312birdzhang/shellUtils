@@ -1,4 +1,4 @@
 shellUtils
 ==========
 
-一些自己写的小shell程序
+一些小的shell程序
